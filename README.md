@@ -14,12 +14,21 @@ My project consists of 4 websites in different languages and a mobile applicatio
 - CDN: Bunny
 - Deployment: Jenkins
 
-**🚀 Statistics:**
-- First (oldest) website: 700k visitors and 2kk views per month
-- Second website: 400k visitors and 1kk views per month
-- Summary bandwidth: about 5 TB
+**<p>🚀 Statistics:</p>**
+- 1kk users per month in summary
+- 3kk views per month in summary
+- 4TB traffic per month in summary
+- the absolute high is 205k users per day
 
-In summary: about 1kk users per month
+<details>
+<summary>First website: 700k visitors per month</summary>  
+<img src="/res/web-first.jpg" height="200" />  
+</details>
+
+<details>
+<summary>Second website: 400k visitors per month</summary>  
+<img src="/res/web-second.jpg" height="200" />  
+</details>
 
 **💰 Monetization Model:**
 -  AdSense advertising
@@ -37,3 +46,10 @@ In summary: about 1kk users per month
 
 **💰 Monetization Model:**
 - AdMob advertising
+
+<h2>What's next?</h2>
+<p>The next step is only to the moon ;)</p>
+<img src="/res/to-the-moon.jpg" height="440" width="216" />
+
+<p>And the main picture:</p>
+<img src="https://github.com/drlivsi/HandMadeNews/raw/main/res/StandWithUkraine.jpg" />

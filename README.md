@@ -1,4 +1,4 @@
-# My Best Project
+# My Best Project: 1kk users per month
 
 I have several pet projects and would like to show one of them. Unfortunately, I can't show the code, instead I'll show some anonymous stats.
 

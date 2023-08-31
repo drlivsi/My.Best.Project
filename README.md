@@ -15,14 +15,16 @@ My project consists of 4 websites in different languages and a mobile applicatio
 - Deployment: Jenkins
 
 **<p>🚀 Statistics:</p>**
-- 1kk users per month in summary
+- 1.2kk users per month in summary
 - 3kk views per month in summary
 - 4TB traffic per month in summary
 - the absolute high is 205k users per day
 
 <details>
-<summary>First website: 700k visitors per month</summary>  
-<img src="/res/web-first.jpg" height="200" />  
+<summary>First website: 800k visitors per month</summary>  
+<img src="/res/web-first.jpg" height="200" />
+<br><br>
+<img src="/res/web-first-2.jpg" height="200" />
 </details>
 
 <details>

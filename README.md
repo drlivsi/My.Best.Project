@@ -22,9 +22,7 @@ My project consists of 4 websites in different languages and a mobile applicatio
 
 <details>
 <summary>First website: 800k visitors per month</summary>  
-<img src="/res/web-first.jpg" height="200" />
-<br><br>
-<img src="/res/web-first-2.jpg" height="200" />
+<img src="/res/web-first.jpg" height="200" /> <img src="/res/web-first-2.jpg" height="200" />
 </details>
 
 <details>

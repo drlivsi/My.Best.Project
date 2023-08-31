@@ -18,7 +18,7 @@ My project consists of 4 websites in different languages and a mobile applicatio
 - 1.2kk users per month in summary
 - 3kk views per month in summary
 - 4TB traffic per month in summary
-- the absolute high is 205k users per day
+- The absolute high is 205k users per day
 
 <details>
 <summary>First website: 800k visitors per month</summary>  

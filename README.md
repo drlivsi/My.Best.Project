@@ -1,4 +1,4 @@
-# My Best Project: 1.2kk users per month
+# My Best Project: 1.25kk users per month
 
 I have several pet projects and would like to show one of them. Unfortunately, I can't show the code, instead I'll show some anonymous stats.
 
@@ -22,12 +22,12 @@ My project consists of 4 websites in different languages and a mobile applicatio
 
 <details>
 <summary>First website: 800k visitors per month</summary>  
-<img src="/res/web-first.jpg" height="200" /> <img src="/res/web-first-2.jpg" height="200" />
+<img src="/res/web-first.jpg" height="400" />
 </details>
 
 <details>
-<summary>Second website: 400k visitors per month</summary>  
-<img src="/res/web-second.jpg" height="200" />  
+<summary>Second website: 450k visitors per month</summary>  
+<img src="/res/web-second.jpg" height="400" />  
 </details>
 
 **💰 Monetization Model:**

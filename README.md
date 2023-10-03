@@ -15,20 +15,18 @@ My project consists of 4 websites in different languages and a mobile applicatio
 - Deployment: Jenkins
 
 **<p>🚀 Statistics:</p>**
-- 1.2kk users per month in summary
+- 1.25kk users per month in summary
 - 3kk views per month in summary
 - 4TB traffic per month in summary
 - The absolute high is 205k users per day
 
-<details>
-<summary>First website: 800k visitors per month</summary>  
-<img src="/res/web-first.jpg" height="400" />
-</details>
+<b>First website:</b> 800k visitors per month:
 
-<details>
-<summary>Second website: 450k visitors per month</summary>  
+<img src="/res/web-first.jpg" height="400" />
+
+<b>Second website:</b> 450k visitors per month:
+
 <img src="/res/web-second.jpg" height="400" />  
-</details>
 
 **💰 Monetization Model:**
 -  AdSense advertising

@@ -7,8 +7,8 @@ My project consists of 4 websites in different languages and a mobile applicatio
 <h2>Websites</h2>
 
 **🛠️ Technical details:**
-- Sites are written in PHP (development started 13 years ago), now I'm working on a new ASP.NET Core version.
-- Web Client: self-written html-template and crumbs of js-code
+- ASP.NET Core MVC (and PHP in some places).
+- Frontend: very simple self-written html-template and crumbs of js-code
 - Database: MySQL
 - Hosting: Hetzner Cloud
 - CDN: Bunny
@@ -37,10 +37,11 @@ My project consists of 4 websites in different languages and a mobile applicatio
 - Xamarin Forms
 - Bunny CDN
 - Firebase Push Notifications
+- Azure Functions
 
 **🚀 Statistics:**
-- About 10k active devices
-- 2k-3k daily users
+- About 11k active devices
+- 2.5k-3.5k daily users
 
 **💰 Monetization Model:**
 - AdMob advertising

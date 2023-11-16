@@ -1,8 +1,8 @@
 # My Best Project: 1.25kk users per month
 
-I have several pet projects and would like to show one of them. Unfortunately, I can't show the code, instead I'll show some anonymous stats.
+I have several pet projects and would like to show one of them. Instead of code, I will describe the project and show anonymous statistics.
 
-My project consists of 4 websites in different languages and a mobile application.
+My project allows you to send a postcard to a friend and consists of 4 sites in different languages, a mobile application, and a service for sending push notifications.
 
 <h2>Websites</h2>
 
@@ -31,17 +31,25 @@ My project consists of 4 websites in different languages and a mobile applicatio
 **💰 Monetization Model:**
 -  AdSense advertising
 
+<h2>Sending Push Notifications</h2>
+
+**🛠️ Technical details:**
+- Backend - Azure Functions
+- Database: MySQL
+- Deployment: GitHub Actions
+
+The big advantage is the low cost of use compared to existing third-party services.
+
 <h2>Mobile client</h2>
 
 **🛠️ Technical details:**
 - Xamarin Forms
 - Bunny CDN
 - Firebase Push Notifications
-- Azure Functions
 
 **🚀 Statistics:**
 - About 11k active devices
-- 2.5k-3.5k daily users
+- 3k-4k daily users
 
 **💰 Monetization Model:**
 - AdMob advertising
